@@ -1,0 +1,16 @@
+body {
+  background-color: #fdf1a7;
+}
+#start-btn {
+  background-color: #00a0d4;
+  color: #fdf1a7;
+  border: 1px solid #fdf1a7;
+  font-size: 200%;
+  letter-spacing: 2px;
+  padding: 20px 50px;
+  margin-top: 30px;
+}
+#game-row {
+  text-align: center;
+  margin-top: 30px;
+}
