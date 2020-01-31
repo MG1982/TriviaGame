@@ -1,9 +1,5 @@
 # Trivia Game
 
-## UWA Full Stack Flex - Week 5 Homework Assignment
-
-## Option Two: Advanced Assignment (Timed Questions)
-
 ## Built With;
 
 - HTML5
